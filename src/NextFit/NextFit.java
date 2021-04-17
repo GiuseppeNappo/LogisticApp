@@ -14,7 +14,7 @@ import java.util.Arrays;
 public class NextFit {
 
     public static ArrayList<Vehicle>  nextFit(ArrayList<Vehicle> vehicles, int m, ArrayList<Pack> packs, int n) {
-        // Stores vehicle id of the block allocated to a
+      
         // pack
         int[] allocation = new int[n];
         int j = 0;
