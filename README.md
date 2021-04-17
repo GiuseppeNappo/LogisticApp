@@ -6,5 +6,4 @@ Assicurarsi che il driver.jar e il file del database siano nella stessa cartella
 
 Andare poi nel path del main e digitare i seguenti comando  "javac Main.java" e successivamente "java -cp sqlite-jdbc-3.34.0.jar; Main"
 
-POTREBERO ESSERCI PROBLEMI DI COMPILAZIONE SE DI PROVA DA UN IDE DATO CHE IL DRIVER E IL DB NON DOVREBBERO ESSERE POSTI IN QUESTA CARTELLA PER SEMPLICITà
-HO DATO ISTRUZIONI PER FARLO PARTIRE DA LINEA DI COMANDO
+
